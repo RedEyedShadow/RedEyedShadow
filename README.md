@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on how to learn SQL
 - 📫 How to reach me: not yet ready to share mail here, sorry
-- Call me JCR
+- Call me Nitz
 
 <!---
 RedEyedShadow/RedEyedShadow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
